@@ -38,13 +38,11 @@
 
 .homepage-image-container {
 	width: 370px;
-	height: 370px;
 }
 
 .homepage-image-wrapper {
 	overflow: hidden;
 	border-radius: 10%;
-	transform: rotate(3deg);
 }
 
 .homepage-image-wrapper img {
